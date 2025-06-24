@@ -14,8 +14,8 @@ require (
 require (
 	github.com/alwindoss/morse v1.0.1 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
-	github.com/ecies/go/v2 v2.0.7 // indirect
-	github.com/ethereum/go-ethereum v1.12.1 // indirect
+	github.com/ecies/go/v2 v2.0.8 // indirect
+	github.com/ethereum/go-ethereum v1.13.5 // indirect
 	github.com/mitchellh/go-ps v1.0.0 // indirect
-	golang.org/x/crypto v0.13.0 // indirect
+	golang.org/x/crypto v0.16.0 // indirect
 )
